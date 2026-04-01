@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+alpaca-trade-api
+python-dotenv
+pydantic
+pyyaml
